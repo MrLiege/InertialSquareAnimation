@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0FF3AB8-E677-47C6-B050-E09C85897722"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62C7DB88-3BAD-4D95-A169-56FED6EED13B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InertialSquare/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "62C7DB88-3BAD-4D95-A169-56FED6EED13B - 3c5ac95d8a167245"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InertialSquare.ViewController.squareView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "InertialSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/Documents/Learning(mobile)/iOSCamp/UIKit/SparrowCode/InertialSquare/InertialSquare/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "62C7DB88-3BAD-4D95-A169-56FED6EED13B - d620c1601fe0cbc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InertialSquare.ViewController.squareView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "InertialSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/Documents/Learning(mobile)/iOSCamp/UIKit/SparrowCode/InertialSquare/InertialSquare/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "62C7DB88-3BAD-4D95-A169-56FED6EED13B - ec830546135fedd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InertialSquare.ViewController.squareView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "InertialSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/Documents/Learning(mobile)/iOSCamp/UIKit/SparrowCode/InertialSquare/InertialSquare/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "62C7DB88-3BAD-4D95-A169-56FED6EED13B - a5edd93d1d99833a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InertialSquare.ViewController.squareView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "InertialSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/Documents/Learning(mobile)/iOSCamp/UIKit/SparrowCode/InertialSquare/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "62C7DB88-3BAD-4D95-A169-56FED6EED13B - d22cba830646afbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InertialSquare.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; InertialSquare.ViewController"
+                  moduleName = "InertialSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/Documents/Learning(mobile)/iOSCamp/UIKit/SparrowCode/InertialSquare/InertialSquare/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "62C7DB88-3BAD-4D95-A169-56FED6EED13B - 6aa89d1594bfd1ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InertialSquare.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;InertialSquare.ViewController&gt;"
+                  moduleName = "InertialSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/Documents/Learning(mobile)/iOSCamp/UIKit/SparrowCode/InertialSquare/InertialSquare/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
